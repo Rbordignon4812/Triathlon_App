@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"Triathlon Registration "</string>
+    <string name="teamCountTxt">Number of Athletes</string>
+    <string name="calculateButton">Calculate</string>
+    <string-array name = "cityNames">
+        <item>Lake Placid</item>
+        <item>Big Island Hawaii</item>
+        <item>Miami</item>
+    </string-array>
+</resources>
